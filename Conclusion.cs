@@ -14,7 +14,9 @@ namespace Singleton
     
     5.A public static means of getting the reference to the single created instance, creating one if necessary.
 
-    
+
+    --> https://en.wikipedia.org/wiki/Glen_Ord_Distillery
+
     */
     }
 }
