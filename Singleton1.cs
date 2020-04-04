@@ -1,6 +1,6 @@
 //Second version - simple thread-safety
 
-namespace singleton1
+namespace singleton
 {
     public sealed class Singleton1
     {
